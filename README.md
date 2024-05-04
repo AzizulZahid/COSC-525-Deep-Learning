@@ -1,1 +1,1 @@
-# COSC-525-Deep-Learning-
+# COSC-525-Deep-Learning
